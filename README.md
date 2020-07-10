@@ -14,3 +14,5 @@ Applied semantic HTML tags and reorganized corresponding CSS elememts.
 ![Screenshot (234)](https://user-images.githubusercontent.com/62854999/87193159-1895b900-c2c6-11ea-8c36-6db6b839cc65.png)
 
 https://lisamcgautier.github.io/codeRefactor/
+
+https://github.com/LisaMcGautier/codeRefactor
